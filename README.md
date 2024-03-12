@@ -1,4 +1,4 @@
-# Quant-Research-Assignment_True-Beacon
+# Quant-Research-Project
 This research notebook is for understanding Nifty and Bank Nifty indices volatilities as they have
 significant overlap in terms of their constituents and weights. The objective is exploit the dispersion
 in their volatilites as they are likely to be affected by similar market conditions and macroeconomic
